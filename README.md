@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,mongodb,mysql,postgres,mysql,html,css,bootstrap,ps,vscode,vim,eclipse,idea,sublime,docker,git,github,gitlab,linux,md,postman,obsidian&perline=14" />
-  </a>
-</p>
+<h1 align="center">
+  Tecnologías que uso:  
+  <img src="https://skillicons.dev/icons?i=java,spring,php,mongodb,mysql,postgres,mysql,html,css,bootstrap,ps,vscode,vim,eclipse,idea,sublime,docker,git,github,gitlab,linux,md,postman,obsidian&perline=14" />
+</h1>
